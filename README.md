@@ -5,6 +5,8 @@
 
 Part of the **Ash Sound Works** custom tools for live and studio — by sound artist and producer **Ash (Ahn Sunghoon)** · [GitHub](https://github.com/nunosmash)
 
+[![MEMI Demo](https://github.com/nunosmash/MEMI/blob/main/MEMI_img.jpg)](https://youtu.be/saMilGrP-hU?si=Y-vMlulxTsm_f_ZQ)
+
 ---
 
 ## Why MEMI?
@@ -60,6 +62,14 @@ MEMI separates **sync (clock)** from **when the sequencer runs (gate)**. You dri
 4. Use gate notes (e.g. D1) and **note length** to define when the sequencer runs.  
 
 Align with audio using MIDI **Track Delay** (and similar). Many setups need fine tuning around **−18 ms** depending on interface and buffer size.
+
+---
+
+## Firmware update tool
+
+Use **QMK Toolbox** as the recommended flashing utility when updating MEMI firmware from a computer:
+
+- QMK Toolbox: https://qmk.fm/toolbox
 
 ---
 
