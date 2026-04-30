@@ -75,6 +75,22 @@ For full wiring examples, per-device notes, and troubleshooting, see the bundled
 
 ---
 
+## Hardware Specifications (BOM)
+
+| Category | Component Description | Qty |
+| :--- | :--- | :---: |
+| **MCU** | Arduino Pro Micro (5V/16MHz) | 1 |
+| **I/O** | PJ-320A 3.5mm Stereo Jack | 6 |
+| **Optocoupler** | 6N138 High-Speed Optocoupler | 1 |
+| **Diode** | 1N4001 Rectifier Diode | 1 |
+| **Passive** | 100μF Electrolytic Capacitor | 1 |
+| **Indicators** | 3.0mm LED (Multi-color) | 3 |
+| **Input** | 6x6x5mm Tactile Push Switch | 1 |
+| **Enclosure** | 35.5 x 56 x 2mm Clear Acrylic Top Plate | 1 |
+| **Resistors** | 220Ω (x9), 330Ω (x3), 4.7kΩ (x1) | 13 |
+
+---
+
 ## Documentation
 
 - Full manual: `memi-manual.html` (ships with the Ash Sound Works website bundle)  
