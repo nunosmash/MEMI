@@ -3,7 +3,8 @@
 
 **MIDI-to-CV interface** for DAW-centered live rigs — tight sync between Ableton Live (or similar) and external hardware sequencers, with **clock** and **run / start–stop** split onto separate CV/Gate outputs.
 
-Part of the **Ash Sound Works** custom tools for live and studio — by sound artist and producer **Ash (Ahn Sunghoon)** · [GitHub](https://github.com/nunosmash)
+Part of the **Ash Sound Works** custom tools for live and studio — by sound artist and producer **Ash (Ahn Sunghoon)** · [GitHub](https://github.com/nunosmash)/ 
+[Manual](http://ashsoundworks.com/memi-manual.html)
 
 [![MEMI Demo](https://github.com/nunosmash/MEMI/blob/main/MEMI_img.jpg)](https://youtu.be/saMilGrP-hU?si=Y-vMlulxTsm_f_ZQ)
 
