@@ -86,8 +86,8 @@ For full wiring examples, per-device notes, and troubleshooting, see the bundled
 | **Passive** | 100μF Electrolytic Capacitor | 1 |
 | **Indicators** | 3.0mm LED (Multi-color) | 3 |
 | **Input** | 6x6x5mm Tactile Push Switch | 1 |
-| **Enclosure** | 56 x 35.5 x 2mm Clear Acrylic Top Plate | 1 |
 | **Resistors** | 220Ω (x9), 330Ω (x3), 4.7kΩ (x1) | 13 |
+| **Enclosure** | 56 x 35.5 x 2mm Clear Acrylic Top Plate | 1 |
 
 ---
 
